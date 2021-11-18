@@ -1,7 +1,7 @@
 ### :wave: Hi there 
 
 - 💻 I'm currently working as a system support level 2 and Junior LSP developer
-- 📚 I’m currently learning <img align="center" alt="ph-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> & <img align="center" alt="ph-Vim" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"> 
+- 📚 I’m currently learning <img align="center" alt="ph-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> & Markdown <img align="center" alt="ph-Markdown" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"> 
 - 🔭 I intend to learn SQL, Python and Java
 
 ### :muscle: My hard work 
