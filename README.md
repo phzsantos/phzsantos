@@ -1,7 +1,7 @@
 ### :wave: Hi there 
 
 - 💻 I'm currently working as a system support level 2 and Junior LSP developer
-- 📚 I’m currently learning <img align="center" alt="ph-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> & Markdown <img align="center" alt="ph-Markdown" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"> 
+- 📚 I’m currently learning <img align="center" alt="ph-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
 - 🔭 I intend to learn SQL, Python and Java
 
 ### :muscle: My hard work 
@@ -23,7 +23,8 @@
 <img align="center" alt="ph-Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
 <img align="center" alt="ph-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
 <img align="center" alt="ph-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  
+<img align="center" alt="ph-Markdown" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+
 ##
 
 <a href="https://www.youtube.com/c/phzsantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
