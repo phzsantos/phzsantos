@@ -1,7 +1,7 @@
 ### :wave: Hi there 
 
 - 💻 I'm currently working as a system support level 2 and Junior LSP developer
-- 📚 I’m currently learning <img align="center" alt="ph-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
+- 📚 I’m currently learning <img align="center" alt="ph-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 - 🔭 I intend to learn SQL, Python and Java
 
 ### :muscle: My hard work 
