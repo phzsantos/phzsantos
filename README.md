@@ -2,7 +2,7 @@
 
 - 💻 I'm currently working as a system support level 2 and Junior LSP developer
 - 📚 I’m currently learning RegEx and <img align="center" alt="ph-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
-- 🔭 I intend to learn SQL, Python and Java
+- 🔭 I intend to learn C, C++, Java, Python, SQL, RegEx, Shell Script, Oracle Database, Git and GitHub
 
 ### :muscle: My hard work 
 
@@ -11,19 +11,14 @@
 ### :point_down: Languages and technologies 
 
 <a href="https://github.com/phzsantos">
-<img align="right" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phzsantos&layout=compact&langs_count=10&theme=dark&card_width=400"/>
+<img align="right" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phzsantos&layout=compact&langs_count=10&hide=html,css,makefile&theme=dark&card_width=400"/>
 
 <img align="center" alt="ph-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="center" alt="ph-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="ph-Csharp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img align="center" alt="ph-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img align="center" alt="ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="ph-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="ph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="ph-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="center" alt="ph-Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
 <img align="center" alt="ph-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
-<img align="center" alt="ph-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 <img align="center" alt="ph-Markdown" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
 
 ##
