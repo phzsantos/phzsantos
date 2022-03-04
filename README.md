@@ -1,7 +1,7 @@
 ### :wave: Hi there 
 
 - 💻 I'm currently looking for a job
-- 📚 I’m currently learning <img align="center" alt="ph-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img align="center" alt="ph-CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img align="center" alt="ph-JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+- 📚 I’m currently learning <img align="center" alt="ph-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img align="center" alt="ph-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img align="center" alt="ph-CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img align="center" alt="ph-JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 - 🔭 I intend to learn C, C++, Java, Python, SQL, RegEx, Shell Script, Oracle Database, Git and GitHub
 
 ### :muscle: My hard work 
