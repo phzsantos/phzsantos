@@ -1,7 +1,7 @@
 ### :wave: Hi there 
 
 - 💻 I'm currently looking for a job
-- 📚 I’m currently learning <img align="center" alt="ph-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> & shell
+- 📚 I’m currently learning <img align="center" alt="ph-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 - 🔭 I intend to learn C, C++, Java, Python, SQL, RegEx, Shell Script, Oracle Database, Git, GitHub, WEB development
 
 ### :muscle: My hard work 
