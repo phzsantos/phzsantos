@@ -1,7 +1,7 @@
 ### :wave: Hi there 
 
 - 📚 I’m currently learning <img align="center" alt="ph-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-- 🔭 I intend to learn Java
+- 🔭 I intend to learn <img align="center" alt="ph-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 ### :muscle: My hard work 
 
