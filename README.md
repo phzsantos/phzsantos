@@ -5,6 +5,8 @@
 - 📜 I intend to graduate in computer science
 - 🔍 I'm currently looking for a internship at a software company
 
+[![GitHub phzsantos](https://img.shields.io/github/followers/phzsantos?label=follow&style=social)](https://github.com/phzsantos)
+
 ### :muscle: My hard work 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phzsantos&theme=dark)](https://git.io/streak-stats)
