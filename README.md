@@ -1,6 +1,6 @@
 ### :wave: Hi there 
 
-- 📚 I’m currently learning <img align="center" alt="ph-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+- 📚 I’m currently learning <img align="center" alt="ph-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> and <img align="center" alt="ph-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 - 🔭 I intend to learn <img align="center" alt="ph-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 - 📜 I intend to graduate in computer science
 - 🔍 I'm currently looking for a internship at a software company
