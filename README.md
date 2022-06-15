@@ -1,9 +1,12 @@
 ### :wave: Hi there 
 
-- 📚 I’m currently learning <img align="center" alt="ph-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> and <img align="center" alt="ph-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-- 🔭 I intend to learn <img align="center" alt="ph-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-- 📜 I intend to graduate in computer science
-- 🔍 I'm currently looking for a internship at a software company
+- 📚 I’m currently learning <img align="center" alt="ph-C" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+- 🔭 I intend to learn <img align="center" alt="ph-Java" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+- 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>edora 35 workstation (GNOME)
+- 📝 Favorite IDE and text editors: Vscode, VIM, Sublime text, Gedit, Eclipse IDE
+- 📜 I'm attending Software Analysis and Development at UVV (Vila Velha University)
+- 🔍 I'm looking for a internship at a software company
+- 🌐 [Blog](https://phzsantos.github.io/) 
 
 [![GitHub phzsantos](https://img.shields.io/github/followers/phzsantos?label=follow&style=social)](https://github.com/phzsantos)
 
