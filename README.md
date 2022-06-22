@@ -7,14 +7,15 @@
 - 📜 I'm attending Software Analysis and Development at UVV (Vila Velha University)
 - 🔍 I'm looking for a internship at a software company
 - 🌐 [Blog](https://phzsantos.github.io/) 
+- 💪 I’m currently working on this project https://github.com/grigio888/Spotify-Clone as a apprentice
 
 [![GitHub phzsantos](https://img.shields.io/github/followers/phzsantos?label=follow&style=social)](https://github.com/phzsantos)
 
-### :muscle: My hard work 
+### 💪 My hard work 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phzsantos&theme=dark)](https://git.io/streak-stats)
 
-### :point_down: Languages and technologies 
+### 👇 Languages and technologies 
 
 <a href="https://github.com/phzsantos">
 <img align="right" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phzsantos&layout=compact&langs_count=10&hide=html,css,makefile,shell,vim script,ruby&theme=dark&card_width=400"/>
