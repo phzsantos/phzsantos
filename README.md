@@ -5,7 +5,6 @@
 - 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>edora 35 workstation (GNOME)
 - 📝 Favorite IDE and text editors: Vscode, VIM, Sublime text, Gedit, Eclipse IDE
 - 📜 I'm attending Software Analysis and Development at UVV (Vila Velha University)
-- 🔍 I'm looking for a internship at a software company
 - 🌐 [Blog](https://phzsantos.github.io/) 
 - 💪 I’m currently working on this project https://github.com/grigio888/Spotify-Clone as a apprentice
 
