@@ -17,7 +17,7 @@
 ### 👇 Languages and technologies 
 
 <a href="https://github.com/phzsantos">
-<img align="right" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phzsantos&layout=compact&langs_count=10&hide=html,css,makefile,shell,vim script,ruby&theme=dark&card_width=400"/>
+<img align="right" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phzsantos&layout=compact&langs_count=10&hide=html,css,makefile,shell,vim script,ruby,scss&theme=dark&card_width=400"/>
 
 <img align="center" alt="ph-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="center" alt="ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
