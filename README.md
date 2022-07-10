@@ -1,13 +1,12 @@
 ### :wave: Hi there 
 
 - 📚 I’m currently learning <img align="center" alt="ph-C" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">, <img align="center" alt="ph-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-- 🔭 I intend to learn <img align="center" alt="ph-Js" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+- 🔭 I intend to learn <img align="center" alt="ph-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 - 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>edora 35 workstation (GNOME)
-- 📝 Favorite IDE and text editors: Vscode, VIM, Sublime text, Gedit, Eclipse IDE
+- 📝 Favorite text editor: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 - 📜 I'm attending Software Analysis and Development at UVV (Vila Velha University)
 - 🌐 [Blog](https://phzsantos.github.io/) 
-- 💪 I’m currently working on this project https://github.com/grigio888/Spotify-Clone as a apprentice
-- 💪 I’m currently working on this project https://github.com/grigio888/MangaGrid as a apprentice
+- 💪 I’m currently working on this project https://github.com/grigio888/MangaGrid as a apprentice (back-end python)
 
 [![GitHub phzsantos](https://img.shields.io/github/followers/phzsantos?label=follow&style=social)](https://github.com/phzsantos)
 
