@@ -7,6 +7,7 @@
 - 📜 I'm attending Software Analysis and Development at UVV (Vila Velha University)
 - 🌐 [Blog](https://phzsantos.github.io/) 
 - 💪 I’m currently working on this project https://github.com/grigio888/Spotify-Clone as a apprentice
+- 💪 I’m currently working on this project https://github.com/grigio888/MangaGrid as a apprentice
 
 [![GitHub phzsantos](https://img.shields.io/github/followers/phzsantos?label=follow&style=social)](https://github.com/phzsantos)
 
