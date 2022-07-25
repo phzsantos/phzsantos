@@ -28,7 +28,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phzsantos&theme=dark)](https://git.io/streak-stats)
 <a href="https://github.com/phzsantos">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phzsantos&langs_count=10&hide=html,css,makefile,shell,vim script,ruby,scss&theme=dark&card_width=400"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phzsantos&langs_count=10&hide=html,css,makefile,shell,vim script,ruby,scss&theme=dark&card_width=250"/>
 
 ### :thumbsup: Contact
 
