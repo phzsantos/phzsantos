@@ -1,7 +1,7 @@
 ### :wave: Hi there 
 
 - 📚 I’m currently learning <img align="center" alt="ph-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-- 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>edora 35 workstation (GNOME)
+- 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>edora 36 workstation (GNOME)
 - 📝 Text editor: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 - 📜 I'm attending Software Analysis and Development at UVV (Vila Velha University)
 - 🌐 [Blog](https://phzsantos.github.io/) 
@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
@@ -28,7 +28,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phzsantos&theme=dark)](https://git.io/streak-stats)
 <a href="https://github.com/phzsantos">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phzsantos&langs_count=10&hide=html,css,makefile,shell,vim script,ruby,scss&theme=dark&card_width=250"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phzsantos&langs_count=10&hide=html,css,makefile,shell,vim script,ruby,scss&theme=dark&card_width=300"/>
 
 ### :thumbsup: Contact
 
