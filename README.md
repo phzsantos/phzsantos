@@ -4,8 +4,8 @@
 - 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>edora 36 workstation (GNOME)
 - 📝 Text editor: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 - 📜 I'm attending Software Analysis and Development at UVV (Vila Velha University)
+- 💪 I'm attending IT Essentials at Cisco Networking Academy
 - 🌐 [Blog](https://phzsantos.github.io/) 
-- 💪 I’m currently working on this project https://github.com/grigio888/MangaGrid as a apprentice (back-end python)
 
 ### :point_down: These are the tools that I know:
 
