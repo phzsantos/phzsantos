@@ -2,6 +2,7 @@
 
 - :grin: I'm currently working as a Support/Dev at IGIS (Basically I automate boring stuff with Python, Selenium, BeautifulSoup and Pandas)
 - 📚 I’m currently learning <img align="center" alt="ph-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> at Udemy
+- :pencil2: I'm learning the microframework <img align="center" alt="ph-Flask" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 - :mortar_board: I'm attending Software Analysis and Development at UVV (Vila Velha University)
 - :bulb: I'm attending IT Essentials at Cisco Networking Academy
 - 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>edora 36 workstation (GNOME)
