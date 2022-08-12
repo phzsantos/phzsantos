@@ -27,10 +27,12 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phzsantos&theme=dark)](https://git.io/streak-stats)
 <a href="https://github.com/phzsantos">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phzsantos&langs_count=10&hide=html,css,makefile,shell,vim script,ruby,scss&theme=dark&card_width=300"/>
 
 ### :thumbsup: Contact
 
+<a href="https://resume.io/r/jVHSOopiU">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+</a>
 <a href="https://linkedin.com/in/paulo-henrique-zanoteli-santos-758a2320a" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
