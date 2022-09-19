@@ -1,7 +1,7 @@
 ### :wave: Hi there 
 
 - :grin: I'm currently working as a Support/Dev (almost a DevOps) at IGIS (Basically I automate boring stuff with Python, Requests, Selenium, BeautifulSoup and Pandas)
-- 📚 I’m currently learning <img align="center" alt="ph-C" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> at Udemy
+- 📚 I’m currently learning <img align="center" alt="ph-C" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> & Proxmox at Udemy
 - :mortar_board: I'm attending Software Analysis and Development at UVV (Vila Velha University)
 - :bulb: I'm attending IT Essentials at Cisco Networking Academy
 - 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>edora 36 workstation (GNOME) and Windows 10 with WSL2
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/fortinet-%23EE3124.svg?&style=for-the-badge&logo=fortinet&logoColor=white"> <img src="https://img.shields.io/badge/-WSL2-blue?style=for-the-badge&logo=windows"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/-WINDOWS%2010-blue?style=for-the-badge&logo=windows">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/fortinet-%23EE3124.svg?&style=for-the-badge&logo=fortinet&logoColor=white"> <img src="https://img.shields.io/badge/-WINDOWS%2010-blue?style=for-the-badge&logo=windows"> <img src="https://img.shields.io/badge/-WSL2-blue?style=for-the-badge&logo=windows"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 
