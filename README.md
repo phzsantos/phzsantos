@@ -3,7 +3,6 @@
 - :grin: I'm currently working as a Support/Dev (almost a DevOps) at IGIS (Basically I automate boring stuff with Python, Requests, Selenium, BeautifulSoup and Pandas)
 - 📚 I’m currently learning <img align="center" alt="ph-C" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> & Proxmox & Network architecture at Udemy
 - :mortar_board: I'm attending Software Analysis and Development at UVV (Vila Velha University)
-- :bulb: I'm attending IT Essentials at Cisco Networking Academy
 - 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>edora 36 workstation (GNOME) and Windows 10 with WSL2
 - 🌐 [Blog](https://phzsantos.github.io/) 
 
