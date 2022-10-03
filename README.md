@@ -24,8 +24,7 @@
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 ### 💪 My hard work 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phzsantos&theme=dark)](https://git.io/streak-stats)
-<a href="https://github.com/phzsantos">
+[![GitHub Streak](https://streak-stats.demolab.com?user=phzsantos&theme=dark&hide_border=true&border_radius=5&background=DD272700)](https://git.io/streak-stats)
 
 ### :thumbsup: Contact
 
