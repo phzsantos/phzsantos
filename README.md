@@ -1,6 +1,6 @@
 ### :wave: Hi there 
 
-- :grin: I'm currently working as a Support/Dev (DevOps) at IGIS
+- :grin: I'm currently working as a Support/Dev (DevOps) and data scientist at IGIS
 - 📚 I’m currently learning <img align="center" alt="ph-Python" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img align="center" alt="ph-Flask" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"> <img align="center" alt="ph-Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> <img align="center" alt="ph-Grafana" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">, Zabbix, Proxmox VE
 - :mortar_board: I'm attending Software Analysis and Development at UVV (Vila Velha University)
 - 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>edora 36 workstation and <img align="center" alt="ph-Ubuntu" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"> Ubuntu 22.04 on WSL2
