@@ -1,7 +1,7 @@
 ### :wave: Hi there 
 
 - :grin: I'm currently working as a DevOps at IGIS
-- 📚 I’m currently learning Python (Web development kit), MS AD, Fortgate Firewall
+- 📚 I’m currently learning Python (Web development kit)
 - :mortar_board: I'm attending Software Analysis and Development at UVV (Vila Velha University)
 - 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>edora 37 workstation and <img align="center" alt="ph-Ubuntu" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"> Ubuntu 22.04 on WSL2
 - 🌐 [Blog](https://phzsantos.github.io/) 
