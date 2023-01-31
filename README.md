@@ -11,7 +11,7 @@
 
 | 💪 GitHub Streak | 💻 Top Langs |
 |-----|-----|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=phzsantos&theme=python-dark&hide_border=true&border_radius=5&background=DD272700)](https://phzsantos.github.io/) | [![Top Langs](https://github-stats.vineelsai.com/api/top-langs/?username=phzsantos&layout=compact&langs_count=8&theme=dark)](https://phzsantos.github.io/) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=phzsantos&theme=python-dark&hide_border=true&border_radius=5&background=DD272700)](https://phzsantos.github.io/) | [![Top Langs](https://github-stats.vineelsai.com/api/top-langs/?username=phzsantos&layout=compact&langs_count=8&hide=vim%20script,makefile,ruby,java,c%23,html,css&theme=dark)](https://phzsantos.github.io/) |
 
 ## 📈 GitHub Activity
 
