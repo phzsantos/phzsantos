@@ -1,6 +1,6 @@
 ### :wave: Hi there 
 
-- 📚 I’m currently learning Python
+- 📚 I’m currently learning Python, C
 - :mortar_board: I'm attending Software Analysis and Development at UVV (Vila Velha University)
 - 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>edora 37 workstation
 - 🌐 [Blog](https://phzsantos.github.io/)
