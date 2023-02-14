@@ -1,7 +1,7 @@
 ### :wave: Hi there 
 
 - :grin: I'm currently working as a Web Developer at Teamlyzer
-- 📚 I’m currently learning Python, C, Flask, Bootstrap 5, JQuery, SQL, PostgreSQL, SQLAlchemy, HTML, CSS, JS, API
+- 📚 I’m currently learning Python, C, Flask, Bootstrap 5, JQuery, SQL, PostgreSQL, SQLAlchemy, WTForms, HTML, CSS, JS, API
 - :mortar_board: I'm attending Software Analysis and Development at UVV (Vila Velha University)
 - 💻 OS: <img align="center" alt="ph-Fedora" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>edora 37 workstation
 - 🌐 [Blog](https://phzsantos.github.io/)
