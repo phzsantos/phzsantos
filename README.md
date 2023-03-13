@@ -1,7 +1,7 @@
 ### :wave: Hi there 
 
 - :grin: I'm currently working as a Web Developer at Teamlyzer
-- 📚 I’m currently learning Python, C, Flask, Bootstrap, JQuery, SQL, PostgreSQL, SQLAlchemy, WTForms, HTML, CSS, JS, API
+- 📚 I’m currently learning Python, C, Flask, Bootstrap
 - 💻 OS: Windows 11 + Ubuntu 22.04 on WSL2
 - 🌐 [Blog](https://phzsantos.github.io/)
 - 📌 [Resume](https://resume.io/r/jVHSOopiU)
