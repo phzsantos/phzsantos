@@ -1,19 +1,40 @@
-### :wave: Hi there 
+## :wave: Hi there 
 
-- :grin: I'm currently working as a Web Developer at Teamlyzer
-- 📚 I’m currently learning C, Python, linux, JavaScript
-- 💻 OS: Windows 11 + Ubuntu 22.04 on WSL2, Linux mint
-- 🌐 [Blog](https://phzsantos.github.io/)
-- 📌 [Resume](https://resume.io/r/jVHSOopiU)
+- Working: Web Developer at Teamlyzer
+- Learning: C, Python, linux, JavaScript
+- OS: Linux mint
+- [Blog](https://phzsantos.github.io/)
+- [Resume](https://resume.io/r/jVHSOopiU)
 
-### 🎯 Skills
+## 🎯 Skills
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,c,py,flask,linux,bash,git,github,md,html,css,sass,bootstrap,sqlite&perline=16" />
-</a>
+### Back-end
+- C, Python, Flask (SQLAlchemy, WTForms, Dropzone,...)
 
-### :thumbsup: Contact
+### Front-end
+- HTML5, CSS3, Bootstrap3, Bootstrap5, Jinja2, Font Awesome
 
-<a href="https://linkedin.com/in/paulo-henrique-zanoteli-santos-758a2320a" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" target="_blank">
-</a>
+### Databases
+- PostgreSQL, SQLite3
+
+### Code Editors
+- Vim, VSCode
+
+### OS
+- GNU/Linux (Red Hat,Debian), Proxmox VE, (Windows 10|Windows 11) + WSL2
+
+### Shell
+- BASH, ZSH
+
+### Version control:
+- GIT, GitHub
+
+### AGILE
+- TBD - Trunk-based development 
+
+### Tools (Misc)
+- Markdown, Automation (Python), Web Scraping (Selenium,Beautiful Soup)
+
+## :thumbsup: Contact
+
+[LinkedIn](https://linkedin.com/in/paulo-henrique-zanoteli-santos-758a2320a)
