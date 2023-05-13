@@ -4,7 +4,6 @@
 - Learning: C, Python, linux, JavaScript
 - OS: Linux mint
 - [Blog](https://phzsantos.github.io/)
-- [Resume](https://resume.io/r/jVHSOopiU)
 
 ## 🎯 Skills
 
