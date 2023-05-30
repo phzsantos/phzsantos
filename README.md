@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Web Developer at Teamlyzer
-- Learning: C, Python, JavaScript
+- Learning: Python, JavaScript
 - OS: Linux mint
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
@@ -12,7 +12,7 @@
 - C, Python, Flask (SQLAlchemy, WTForms, Dropzone,...)
 
 ### Front-end
-- HTML5, CSS3, Bootstrap3, Bootstrap5, Jinja2, Font Awesome
+- HTML5, CSS3, JavaScript, Bootstrap3, Bootstrap5, Jinja2, Font Awesome
 
 ### Databases
 - PostgreSQL, SQLite3
@@ -24,10 +24,10 @@
 - GNU/Linux (Red Hat,Debian), Proxmox VE, (Windows 10|Windows 11) + WSL2
 
 ### Shell
-- BASH, ZSH
+- Bash, ZSH
 
 ### Version control:
-- GIT, GitHub
+- Git, GitHub
 
 ### AGILE
 - TBD - Trunk-based development 
