@@ -2,7 +2,7 @@
 
 - Working: Web Developer at Teamlyzer
 - Learning: Python, Javascript, Flask, CS, Math, Statistic, AI, Debian, SED, Regex, Shell script
-- OS: Linux mint
+- OS: Linux mint, Debian
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
 
