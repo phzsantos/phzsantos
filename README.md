@@ -33,7 +33,7 @@
 - TBD - Trunk-based development 
 
 ### Tools (Misc)
-- Markdown, Automation (Python), Web Scraping (Selenium,Beautiful Soup)
+- Markdown, Automation (Python), Web Scraping (Selenium,Beautiful Soup), Regex
 
 ## :thumbsup: Contact
 
