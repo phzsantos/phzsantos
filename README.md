@@ -15,7 +15,7 @@
 - HTML5, CSS3, JavaScript, Bootstrap3, Bootstrap5, Jinja2, Font Awesome
 
 ### Databases
-- PostgreSQL, SQLite3
+- PostgreSQL, SQLite3, Redis
 
 ### Code Editors
 - Vim, VSCode
