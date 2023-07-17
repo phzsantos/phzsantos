@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Web Developer at Teamlyzer
-- Learning: Python, Javascript, Flask, CS, Math, Statistic, AI, SED, Regex, Shell script
+- Learning: Python, Javascript, Flask, CS, AI, SED, Regex, Shell script
 - OS: Linux mint
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
