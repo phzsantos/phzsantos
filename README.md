@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Web Developer at Teamlyzer
-- Learning: C, Python, Javascript, Flask
+- Learning: C, Python, Javascript, Flask, Databases (PostgreSQL)
 - OS: Linux mint
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
