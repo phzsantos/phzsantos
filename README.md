@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Web Developer at Teamlyzer
-- Learning: Python, Flask, Flask-API
+- Learning: Python, Flask, Flask-API, FastAPI
 - OS: Linux mint
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
