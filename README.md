@@ -12,7 +12,7 @@
 - C, Python, Flask (SQLAlchemy, WTForms, Dropzone,...)
 
 ### Front-end
-- HTML5, CSS3, JavaScript, Bootstrap3, Bootstrap5, Jinja2, Font Awesome
+- HTML5, CSS3, JavaScript, JQuery, Bootstrap3, Bootstrap5, Jinja2, Font Awesome
 
 ### Databases
 - PostgreSQL, SQLite3, Redis
