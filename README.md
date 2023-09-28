@@ -1,8 +1,8 @@
 ## :wave: Hi there 
 
 - Working: Web Developer at Teamlyzer
-- Learning: Django
-- OS: Linux Mint
+- Learning: Django, Flask
+- OS: Linux Mint, Ubuntu
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
 
