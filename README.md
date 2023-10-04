@@ -9,7 +9,7 @@
 ## 🎯 Skills
 
 ### Back-end
-- C, Python, Flask (SQLAlchemy, WTForms, Dropzone,...)
+- C, Python, Flask (SQLAlchemy, WTForms, Dropzone,...), Django
 
 ### Front-end
 - HTML5, CSS3, JavaScript, JQuery, Bootstrap3, Bootstrap5, Jinja2, Font Awesome
