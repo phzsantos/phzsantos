@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
-- Working: Web Developer at Teamlyzer
-- Learning: Django, Flask
+- Working: Full Stack Developer at Teamlyzer
+- Learning: Django, Flask, SQL
 - OS: Linux Mint, Ubuntu
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
@@ -9,7 +9,7 @@
 ## 🎯 Skills
 
 ### Back-end
-- C, Python, Flask (SQLAlchemy, WTForms, Dropzone,...), Django
+- C, Python, Flask, Django
 
 ### Front-end
 - HTML5, CSS3, JavaScript, JQuery, Bootstrap3, Bootstrap5, Jinja2, Font Awesome
