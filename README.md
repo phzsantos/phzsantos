@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Full Stack Developer at Teamlyzer
-- Learning: Django, Flask, SQL, Regex, JSON
+- Learning: Django, SQL, Regex, JSON
 - OS: Linux Mint, Ubuntu
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
