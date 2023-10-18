@@ -2,7 +2,7 @@
 
 - Working: Full Stack Developer at Teamlyzer
 - Learning: C, Python, Flask, SQL, CS, Math
-- OS: Linux Mint, Ubuntu
+- OS: Linux Mint
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
 
