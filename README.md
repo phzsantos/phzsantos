@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Full Stack Developer at Teamlyzer
-- Learning: Arduino, C++, Logic, Python, WTForms, Jinja, SQLAlchemy, Flask, Math
+- Learning: Logic, Python, WTForms, Jinja, SQLAlchemy, Javascript, Flask, Math
 - OS: Linux Mint
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
