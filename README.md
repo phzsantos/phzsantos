@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Full Stack Developer at Teamlyzer
-- Learning: Logic, Python, Flask, Math, Front End, JavaScript, jQuery, jinja, templates, Bootstrap, SQLAlchemy
+- Learning: Math, Python, Flask
 - OS: Linux Mint
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
