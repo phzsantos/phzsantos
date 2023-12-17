@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Full Stack Developer at Teamlyzer
-- Learning: Python, Flask, C, SQLAlchemy, Jekyll, SQL, Regex, Vscode
+- Learning: Python, Flask, C, SQLAlchemy, SQL, Regex, Vscode
 - OS: Linux Mint
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
