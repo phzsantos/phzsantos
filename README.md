@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Full Stack Developer at Teamlyzer
-- Learning: Python, Flask, Computers history, Security, Front-end, SSO login
+- Learning: Python, Flask, Computers history, Security, Front-end, SSO login, GitHub
 - OS: Linux Mint
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
