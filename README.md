@@ -1,8 +1,8 @@
 ## :wave: Hi there 
 
 - Working: Full Stack Developer at Teamlyzer
-- Learning: Python, Flask, NVIM, Bootstrap, Web
-- OS: Linux Mint
+- Learning: Python, Flask, NVIM, Bootstrap, Web, i3 WM
+- OS: Linux Mint, Fedora 39 (i3 WM)
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
 
