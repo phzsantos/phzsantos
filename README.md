@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Full Stack Developer at Teamlyzer
-- Learning: Python, Flask, NVIM, Web, i3 WM
+- Learning: Python, Flask, NVIM, Web, i3 WM, Cookies
 - OS: Linux Mint, Fedora 39 (i3 WM)
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
