@@ -2,7 +2,7 @@
 
 - Working: Full Stack Developer at Teamlyzer
 - Learning: Flask, Rails, i3 WM, NVIM, Linux distros
-- OS: Fedora 39 (i3 WM), Fedora 39 (sway)
+- OS: Fedora 39 (i3 WM)
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
 
