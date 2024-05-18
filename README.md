@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Full Stack Developer at Teamlyzer
-- Learning: Ruby, Rails, SQL, Bootstrap
+- Learning: Ruby, Rails, Bootstrap
 - OS: Linux Mint Cinnamon
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
