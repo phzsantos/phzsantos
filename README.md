@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
-- Working: Full Stack Developer at Teamlyzer
-- Learning: C, Django, Jinja, Hardware
+- Working: Unemployed :frowning:
+- Learning: C, Django, Hardware
 - OS: Linux Mint Cinnamon
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
