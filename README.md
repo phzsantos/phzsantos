@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Unemployed :frowning:
-- Learning: C, Python (Iterators and Generators)
+- Learning: C, Python (Decorators)
 - OS: Linux Mint Cinnamon
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
