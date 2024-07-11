@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Unemployed :frowning:
-- Learning: C, Python (OOP), SQL
+- Learning: C, Python (OOP), SQL, Network
 - OS: Linux Mint Cinnamon
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
