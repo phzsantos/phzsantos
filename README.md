@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
 - Working: Unemployed :frowning:
-- Learning: C, Python
+- Learning: C, Python (inheritance and polymorphism)
 - OS: Linux Mint Cinnamon
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
