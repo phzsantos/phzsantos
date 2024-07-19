@@ -1,6 +1,6 @@
 ## :wave: Hi there 
 
-- Learning: C, Python (inheritance and polymorphism), Django
+- Learning: Python (inheritance and polymorphism), Django
 - OS: Linux Mint Cinnamon
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
