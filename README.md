@@ -1,6 +1,6 @@
 ## :wave: Hi there 
 
-- Learning: Python (Datetime)
+- Learning: Python (Datetime), PyCharm
 - OS: Linux Mint Cinnamon
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
