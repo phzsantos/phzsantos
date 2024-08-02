@@ -1,6 +1,6 @@
 ## :wave: Hi there 
 
-- Learning: Python (Types), PyCharm
+- Learning: Python (New features), PyCharm
 - OS: Linux Mint Cinnamon
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
