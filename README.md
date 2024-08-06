@@ -1,6 +1,6 @@
 ## :wave: Hi there 
 
-- Learning: C
+- Learning: C, Python
 - OS: Linux Mint Cinnamon
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
