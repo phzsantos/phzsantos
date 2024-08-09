@@ -1,6 +1,6 @@
 ## :wave: Hi there 
 
-- Learning: C, Python, Django, API
+- Learning: C, Python, Django REST, API
 - OS: Linux Mint Cinnamon
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
