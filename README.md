@@ -1,6 +1,6 @@
 ## :wave: Hi there 
 
-- Learning: C, Python, Django
+- Learning: C, Python, Django, PyCharm
 - OS: Linux Mint Cinnamon
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
