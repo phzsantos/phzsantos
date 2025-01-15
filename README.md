@@ -1,7 +1,7 @@
 ## :wave: Hi there 
 
-- Learning: C, Python, Django, PyCharm, Bootstrap
-- OS: Linux Mint Cinnamon
+- Learning: Ruby, Rails
+- OS: Fedora Linux 41 (Workstation Edition)
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
 
