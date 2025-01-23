@@ -8,7 +8,7 @@
 ## 🎯 Skills
 
 ### Back-end
-- C, Python, Flask, Django
+- C, Python, Ruby, Flask, Django
 
 ### Front-end
 - HTML5, CSS3, JavaScript, JQuery, Bootstrap3, Bootstrap5, Jinja2, Font Awesome
