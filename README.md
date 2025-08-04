@@ -1,14 +1,13 @@
 ## :wave: Hi there 
 
-- Learning: Ruby, Rails
-- OS: Fedora Linux 41 (Workstation Edition)
+- OS: Fedora Linux
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
 
 ## 🎯 Skills
 
 ### Back-end
-- C, Python, Ruby, Flask, Django
+- C, Python, Ruby, Flask, Django, FastAPI
 
 ### Front-end
 - HTML5, CSS3, JavaScript, JQuery, Bootstrap3, Bootstrap5, Jinja2, Font Awesome
