@@ -1,6 +1,6 @@
 ## :wave: Hi there 
 
-- OS: Fedora Linux
+- OS: Fedora Linux & Linux Mint
 - [Blog](https://phzsantos.github.io/)
 - [Resume](https://resume.io/r/c6sxwVRNN)
 
